@@ -22,13 +22,13 @@ Miss 판정을 받을 때마다 체력이 감소합니다.
 ### <li> 결과 화면
 점수 : 플레이 실력에 따라 최종 점수 표시
 
-판정 수 : Perfect / Good / Miss 판정 횟수 표시
+판정 수 : Perfect / Good / Miss 횟수 표시
 
 스페셜 판정표시
 
- - All Combo: Miss 없이 클리어
+ - All Combo : Miss 없이 클리어
 
- - All Perfect: 전 노트를 Perfect로 클리어
+ - All Perfect : 모든 노트를 Perfect로 클리어
 
 # 클래스 다이어그램
 ![Image](https://github.com/user-attachments/assets/c6a36437-2e13-4f15-abc2-31ec151b4328)
