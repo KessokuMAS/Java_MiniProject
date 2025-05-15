@@ -32,3 +32,5 @@ Miss 판정을 받을 때마다 체력이 감소합니다.
 
 # 클래스 다이어그램
 ![Image](https://github.com/user-attachments/assets/c6a36437-2e13-4f15-abc2-31ec151b4328)
+
+# 결과 화면 / 영상
