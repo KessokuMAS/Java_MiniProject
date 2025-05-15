@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Java%20Project&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Java%20Mini%20Project&fontSize=40&animation=twinkling)
 
 # 프로젝트 개요
 간단한 4키 리듬 게임
