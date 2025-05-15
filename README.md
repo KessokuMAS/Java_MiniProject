@@ -29,3 +29,6 @@ Miss 판정을 받을 때마다 체력이 감소합니다.
  - All Combo: Miss 없이 클리어
 
  - All Perfect: 전 노트를 Perfect로 클리어
+
+# 클래스 다이어그램
+![Image](https://github.com/user-attachments/assets/c6a36437-2e13-4f15-abc2-31ec151b4328)
