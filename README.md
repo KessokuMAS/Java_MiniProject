@@ -61,3 +61,6 @@ Miss 판정을 받을 때마다 체력이 감소합니다.
 
 ### <li> 게임 오버 화면
 ![Image](https://github.com/user-attachments/assets/2e947d97-d22c-4f0d-9c23-9d42a4d71455)
+
+### <li> 영상
+https://github.com/user-attachments/assets/594f60bc-55ab-45f7-ab71-59d5935ba89d
