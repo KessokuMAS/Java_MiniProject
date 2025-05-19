@@ -38,17 +38,26 @@ Miss 판정을 받을 때마다 체력이 감소합니다.
 ### <li> 메인 메뉴 화면
 ![Image](https://github.com/user-attachments/assets/c9b6e8c2-f695-4b75-a6be-fbd346165de7)
 
+
 ### <li> 게임 플레이 화면
 ![Image](https://github.com/user-attachments/assets/b3de7f46-7231-4ede-8f0c-5dd813953a33)
+
 
 ### <li> 게임 플레이중 오류 메시지
 ![Image](https://github.com/user-attachments/assets/ce4f0c7f-8dc3-42f5-8051-b8e4e8ce0777)
 
-### <li> 게임 오버 화면
-![Image](https://github.com/user-attachments/assets/2e947d97-d22c-4f0d-9c23-9d42a4d71455)
+
+### <li> 클리어 화면
+![Image](https://github.com/user-attachments/assets/c027486f-ee6f-4c71-b5e6-da2bed850ef9)
+
 
 ### <li> 클리어 화면 (ALL PERFECT)
 ![Image](https://github.com/user-attachments/assets/b8a67518-43c5-41ef-b425-025d99da4524)
 
+
 ### <li> 클리어 화면 (ALL COMBO)
 ![Image](https://github.com/user-attachments/assets/6b783fa2-272b-4133-9120-98f066c959d9)
+
+
+### <li> 게임 오버 화면
+![Image](https://github.com/user-attachments/assets/2e947d97-d22c-4f0d-9c23-9d42a4d71455)
