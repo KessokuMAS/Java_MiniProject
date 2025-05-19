@@ -174,12 +174,13 @@ public class MainMenuPanel extends JPanel {
     private void updateBPM() {
         int selectedIndex = songComboBox.getSelectedIndex();
         if (selectedIndex == 0) {
-            selectedBPM = 110;
-        } else if (selectedIndex == 1) {
-            selectedBPM = 120;
-        } else if (selectedIndex == 2) {
-            selectedBPM = 80;
-        } else {
+            selectedBPM = 100;
+        } //else if (selectedIndex == 1) {
+//            selectedBPM = 120;
+//        } else if (selectedIndex == 2) {
+//            selectedBPM = 80;
+//        } 
+    else {
             selectedBPM = 100;
         }
         bpmLabel.setText("BPM : " + selectedBPM);
